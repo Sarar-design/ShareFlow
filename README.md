@@ -182,7 +182,7 @@ ShareFlow/
     │   │   ├── MessagesScreen.tsx
     │   │   └── ProfileScreen.tsx
     │   │
-    │   └── stack/           # Dodatni navigacijski zasloni
+    │   └── stack/           # Dodatni zasloni
     │       ├── ChatDetailScreen.tsx
     │       ├── ItemDetailScreen.tsx
     │       ├── EventDetailScreen.tsx
