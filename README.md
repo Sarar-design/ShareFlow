@@ -112,7 +112,7 @@ Projekt je že povezan z demo Firebase projektom, zato dodatna nastavitev ni pot
 src/config/firebase.ts
 
 
-### 4. Firestore Security Rules
+### 4. Firestore varnostna pravila
 
 javascript
 rules_version = '2';
